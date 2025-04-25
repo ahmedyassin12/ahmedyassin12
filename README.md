@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Yassin
-👀 I’m interested in taking my Business Intelligence and Spring Boot skills to the next level
- to become a more advanced and well-rounded backend developer.
+👀 I’m interested in taking my Spring Boot and my Business Intelligence   skills to the next level 
+ inorder to become a more advanced and well-rounded backend developer.
 - 🌱 I’m currently Improving my Java Spring Boot and my Bi skills  
 
 <!---
